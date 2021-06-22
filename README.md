@@ -20,8 +20,6 @@ Advanced course in machine learning methods.
 
 8. Sampling (MCMC, Gibbs sampling)
 
-optionally also includes
-
 9. variational inference.
 
 10. exploratory data analysis on example of single cell RNA seq data
